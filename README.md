@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou Henrique Lopes</h1>
+<h1 align="center">Olá 👋, eu sou Henrique Lopes Dionizio Muniz</h1>
 
 <h3 align="center">
-💻 Ciência da Computação • Dados • DevOps
+Estudante de Ciência da Computação • Backend • Algoritmos • Dados
 </h3>
 
 ---
@@ -9,10 +9,20 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante de Ciência da Computação no IESB  
-📊 Estagiário na área de Dados no MGI  
-☁️ Interessado em Cloud e DevOps  
-🐧 Usuário Linux/Ubuntu  
-📚 Estudando SQL, Banco de Dados e POO  
+💻 Atualmente estudando:
+- Algoritmos e Programação em C
+- Estruturas de Dados
+- Kubernetes
+- Docker
+- Apache Airflow
+- Git & GitHub
+
+📚 Desenvolvendo projetos acadêmicos e buscando evolução constante na área de tecnologia.
+
+🎯 Objetivos:
+- Conseguir estágio em desenvolvimento
+- Evoluir no backend
+- Trabalhar com dados e automação
 
 ---
 
@@ -20,17 +30,17 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Python" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
 <img align="center" alt="C" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
+<img align="center" alt="Python" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="center" alt="Git" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 <img align="center" alt="Docker" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<img align="center" alt="Kubernetes" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 
 <img align="center" alt="Linux" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -41,33 +51,36 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 
 ## 📌 Projetos
 
-⚽ Capivariano Stats Analyzer  
-📂 File Organizer Pro  
-🔎 Análise de Algoritmos de Busca em C  
+### 🔎 Análise de Desempenho de Algoritmos de Busca
+Projeto em linguagem C focado na análise de desempenho da busca sequencial utilizando dataset com mais de 100 mil registros.
+
+📊 Testes realizados em múltiplos ambientes computacionais com medição de tempo de execução e comparação de desempenho.
 
 ---
 
-## 🌐 Portfólio
+## 📈 GitHub Stats
 
-🔗 <https://henriquelopes741.github.io/portfolio/>
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes741&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes741&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Contato
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLopes741&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLopes741&layout=compact&theme=tokyonight"/>
-</p>
+📧 Email: SEUEMAIL@gmail.com  
+💼 LinkedIn: SEULINKEDIN
 
 ---
 
-## 📫 Contato
+<div align="center">
 
-<a href="https://github.com/HenriqueLopes741">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+✨ “Sempre aprendendo e evoluindo na tecnologia.” ✨
 
-<a href="https://www.linkedin.com/in/henriquelopesdioniziomuniz/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</div>
